@@ -26,6 +26,15 @@ Welcome! This repository documents my journey in mastering **Python**, **Data En
 * **Code Location:** `Smart-To-Do/main.py`
 
 ---
+### 🏦 Advanced AI Bank System (ATM)
+* **Goal:** A professional banking engine with a built-in AI predictor for financial trends.
+* **Logic:** Built with Python & SQLite for persistent data storage (Level 3).
+* **AI Feature:** Uses `Scikit-Learn` (Linear Regression) to forecast future balance trends based on history (Level 4).
+* **Data Visualization:** Integrated `Matplotlib` for visual financial analytics.
+* **Code Location:** `AI-Bank-System/main.py`
+
+---
+
 
 ### 📬 Let's Connect
 I am dedicated to solving data-driven problems through clean code and rigorous logic. Explore my repositories to see my latest local implementations.
