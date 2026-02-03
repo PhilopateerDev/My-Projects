@@ -3,8 +3,15 @@
 Welcome! This repository documents my journey in mastering **Python**, **Data Engineering**, and **Applied Machine Learning**. 
 
 > **Focus:** Advanced Logic and Local Data Architecture (No Cloud Dependency).
+>
+> ### 🛠️ Technical Toolbox
+* **Languages:** Python (Advanced Logic & OOP).
+* **Data Science:** Pandas, NumPy, Scikit-Learn (Machine Learning).
+* **Visualization:** Matplotlib (Advanced Plotting).
+* **Databases:** SQLite (Local Data Architecture).
 
 ---
+
 
 ### 🛠️ Core Skills (Levels 1-3)
 * **Mathematical Foundations:** Expert understanding of Probability, Linear Algebra, and Statistics to build logically sound algorithms.
