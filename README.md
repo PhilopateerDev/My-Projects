@@ -35,7 +35,18 @@ Welcome! This repository documents my journey in mastering **Python**, **Data En
 
 ---
 
+## 📈 Autonomous Sales Intelligence Pipeline
 
+* **Goal:** A full-scale data pipeline that automates the journey from raw data generation to AI-driven sales forecasting.
+* **Logic:** Features a modular 4-stage architecture including automated data generation, intelligent cleaning, and predictive modeling.
+* **Data Mastery:** Implements logic-based imputation using **Pandas** to mathematically calculate missing values and standardize inconsistent datasets.
+* **AI Forecasting:** Utilizes **Scikit-Learn** (Linear Regression) to analyze 24-month trends and predict future revenue with visual forecasting (Level 4).
+* **Advanced Visualization:** Integrated **Matplotlib** to generate trend lines, revenue distribution pie charts, and future forecast points.
+* **Code Location:** `Sales-Data-AI-Analyzer/main.py`
+
+  
+---
+  
 ### 📬 Let's Connect
 I am dedicated to solving data-driven problems through clean code and rigorous logic. Explore my repositories to see my latest local implementations.
 
