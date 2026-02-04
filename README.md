@@ -53,6 +53,15 @@ Welcome! This repository documents my journey in mastering **Python**, **Data En
 
   
 ---
+
+### 🏠 Real Estate Price Predictor AI
+* **Goal:** A high-precision model to estimate property values based on socio-economic and geographical data.
+* **Logic:** Implements advanced data preprocessing including `StandardScaler` for feature normalization and correlation analysis.
+* **AI Feature:** Uses `Linear Regression` (Level 4 Mastery) with multi-variable inputs to forecast real estate prices.
+* **Insights:** Includes "Feature Importance" visualization to identify the most critical factors driving market value.
+* **Code Location:** `Real-Estate-Price-Predictor-AI/main.py`
+
+---
   
 ### 📬 Let's Connect
 I am dedicated to solving data-driven problems through clean code and rigorous logic. Explore my repositories to see my latest local implementations.
