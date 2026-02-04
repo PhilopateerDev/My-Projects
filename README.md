@@ -68,6 +68,13 @@ Welcome! This repository documents my journey in mastering **Python**, **Data En
 * **Code Location:** `Real-Estate-Price-Predictor-AI/main.py`
 
 ---
+
+### 🛡️ AI Financial Fraud Detector (Simple Learning Project)
+* **Goal:** A basic practice project to try and distinguish between normal and suspicious bank transactions.
+* **How it works:** I used a simple **Random Forest** model to flag transactions based on basic rules (like the amount and the time of the transaction).
+* **What I learned:** I built this to understand the basics of data classification and how to visualize results using a simple Confusion Matrix.
+* **Status:** This is an initial educational implementation to explore AI security basics.
+* **Code Location:** `AI-Financial-Fraud-Detector/main.py`
   
 ---
 
