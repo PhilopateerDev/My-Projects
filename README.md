@@ -69,6 +69,15 @@ Welcome! This repository documents my journey in mastering **Python**, **Data En
 
 ---
   
+---
+
+## 🛠️ How to Run
+To explore these projects locally:
+1. **Clone the repository**: `git clone https://github.com/PhilopateerDev/My-Projects.git`
+2. **Install Dependencies**: 
+   ```bash
+   pip install pandas numpy scikit-learn matplotlib seaborn joblib
+
 ### 📬 Let's Connect
 I am dedicated to solving data-driven problems through clean code and rigorous logic. Explore my repositories to see my latest local implementations.
 
