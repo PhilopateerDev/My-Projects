@@ -1,4 +1,4 @@
-Area,Rooms,Bathrooms,Location,Price
+Area,Rooms,Bathrooms,Location,price
 120,2,1,New_Cairo,3500000
 150,3,2,New_Cairo,4500000
 200,3,3,New_Cairo,6000000
