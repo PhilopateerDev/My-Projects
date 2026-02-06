@@ -1,0 +1,13 @@
+Area,Rooms,Bathrooms,Location,Price
+120,2,1,New_Cairo,3500000
+150,3,2,New_Cairo,4500000
+200,3,3,New_Cairo,6000000
+90,2,1,Sheikh_Zayed,2800000
+180,3,2,Sheikh_Zayed,5200000
+250,4,3,Sheikh_Zayed,8000000
+100,2,1,Nasr_City,2000000
+140,3,2,Nasr_City,2800000
+180,3,2,Nasr_City,3500000
+110,2,1,Maadi,2500000
+160,3,2,Maadi,4000000
+220,4,3,Maadi,5500000
