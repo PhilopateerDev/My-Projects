@@ -19,10 +19,10 @@ st.write(df.head())
 
 # --- معالجة عمود المكان ليكون أرقام قبل أي عملية حسابية ---
 # بنحول الكلمات لأرقام عشان الـ scaler والموديل يقبلوا البيانات
-if df['location'].dtype == 'object':
-    locations_list = df['location'].unique().tolist()
+if df['Location'].dtype == 'object':
+    locations_list = df['Location'].unique().tolist()
     location_mapping = {name: i for i, name in enumerate(locations_list)}
-    df['location'] = df['location'].map(location_mapping)
+    df['Location'] = df['Location'].map(location_mapping)
     display_locations = locations_list
 else:
     display_locations = None
