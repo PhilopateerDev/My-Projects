@@ -13,7 +13,7 @@ st.title("🏠 House Price Prediction Web App")
 
 # --- خطوة قراءة البيانات ---
 # بنقرأ ملف البيانات ونعرض منه جزء بسيط للمستخدم 
-df = pd.read_csv('housing_data.csv')
+df = pd.read_csv('My-Projects/Real-Estate-Price-Predictor-AI/housing_data.csv')
 st.subheader("Dataset Preview")
 st.write(df.head())
 
